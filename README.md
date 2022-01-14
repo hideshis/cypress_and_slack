@@ -1,5 +1,5 @@
 # cypress_and_slack
-send screenshot taken by cypress to slack
+CypressでWebブラウザを操作してスクリーンショットを撮影し、撮影したスクリーンショットをSlackに投稿するスクリプト
 
 ```
 cd src
